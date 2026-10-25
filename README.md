@@ -41,4 +41,4 @@
 > ```
 
 ## [💡] Tip
-> Create characterImages folder for player and put png (1-10) or more for better quality animation
+> Create images folder and characterImages folder for player and put png (1-10) or more for better quality animation
